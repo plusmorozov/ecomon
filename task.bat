@@ -1,0 +1,1 @@
+python.exe "C:/python/ecomon/ecomon.py"
